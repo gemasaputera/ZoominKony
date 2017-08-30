@@ -1,0 +1,11 @@
+{
+  "background_image": "bg_memphis_640x960_white_transparant.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "s4cf4570b6c14b60af7e2ed87e2908a7",
+  "wType": "FlexContainer"
+}

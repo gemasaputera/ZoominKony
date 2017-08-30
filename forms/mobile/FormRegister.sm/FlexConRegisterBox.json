@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "350dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s0e50ebc2a954c6d803c66bdc934e6be",
+    "_top_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexConBoxUser",
+        "FlexConBoxEmail",
+        "FlexConBoxPw01",
+        "FlexConBoxPw02",
+        "FlexConBoxBtnRegister",
+        "FlexConSignInBox"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexConRegisterBox",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h5a265354b99460f879b6bb5b3bb690d",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexConBgRegister",
+    "pf": "FormRegister",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,62 @@
+{
+    "AS_FlexContainer_cb6c67d566134a65ab5da45c8288abca": {
+        "id": "AS_FlexContainer_cb6c67d566134a65ab5da45c8288abca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FormHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j994d84e8574405fbf94cf4d4fedb4f8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___a731ea0909584f82bf3efed554b86222",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "FormHome",
+            "widgetId": "FlexConAllQuestMaster",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "j994d84e8574405fbf94cf4d4fedb4f8",
+            "widgetKUID": "f81f729dae304a1faa5bfc88c0c23a96",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.FlexConAllQuestMaster"
+        }, {
+            "id": "MOVE_ACTION____gd38a913ac4542a9881306749c7706fb",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "FormHome",
+            "widgetId": "FlexConAllQuestMaster",
+            "itemKUID": "j994d84e8574405fbf94cf4d4fedb4f8",
+            "widgetKUID": "f81f729dae304a1faa5bfc88c0c23a96",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "5",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "350"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____gd38a913ac4542a9881306749c7706fb",
+            "displayAnimationId": "MOVE_ACTION____gd38a913ac4542a9881306749c7706fb",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.FlexConAllQuestMaster"
+        }]
+    }
+}

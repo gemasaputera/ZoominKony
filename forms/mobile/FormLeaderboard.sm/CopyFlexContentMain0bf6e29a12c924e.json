@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "439dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sabe7d4ac63a4123ae920a3c87d7f710",
+    "_top_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Image0eb26ec152a004d",
+        "Label0b4ec12b5243548",
+        "Label0cf964118907947",
+        "FlexContainer0d35c179d12da4d",
+        "FlexContainer0c3483b5e5f0048"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyFlexContentMain0bf6e29a12c924e",
+    "info": null,
+    "isvisible": false,
+    "kuid": "d333d96006b94f3abcce62cfc5d57f1b",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexConContent",
+    "pf": "FormLeaderboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

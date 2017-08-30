@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "460dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s982183b6066493ea81955ec09f29214",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "FlexQuestHeader",
+        "FlexContainer0bd9ec2c26efc4c",
+        "CopyFlexContainer0d716213712a443",
+        "CopyFlexContainer0jec09531957945",
+        "CopyFlexContainer0e4234ea2617b4b",
+        "CopyFlexContainer0fcc66ae5b10743",
+        "CopyFlexContainer0dd14e471d1894a",
+        "CopyFlexContainer0d29b206f428746",
+        "CopyFlexContainer0b85366832f0440",
+        "CopyFlexContainer0ea3773e1296e4e",
+        "CopyFlexContainer0cf6d19f781d149"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexScrollQuest",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f589abeb50c74b9c91197687ca77cbb0",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FlexConContentAllQ",
+    "pf": "FormHome",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

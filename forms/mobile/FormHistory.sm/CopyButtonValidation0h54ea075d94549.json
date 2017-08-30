@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "see7a304bd944c8d8704bab8588e4f61",
+    "_text_": "Validating Data...",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s4436de262ef4231bfa5680f4156f496",
+    "id": "CopyButtonValidation0h54ea075d94549",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a6855c5415be4832a1f9f76c61ea1118",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexConValiBox0b891e2dfc13a4a",
+    "pf": "FormHistory",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,2228 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "CopyFlexConAction0e9bf3dc92e1f40": {
+        "CopyFlexConLineThin0jaf3f376160f47": {
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_bottom_": {
+                "type": "number",
+                "value": "0"
+            },
+            "_height_": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_orientation_": 6,
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_percent_": true,
+            "_right_": {
+                "type": "number",
+                "value": "25"
+            },
+            "_skin_": "saff7777024b455795cce46581328a0c",
+            "allboxes": [],
+            "autogrowmode": 0,
+            "canUpdateUI": true,
+            "children": [],
+            "clipbounds": true,
+            "containerweight": 100,
+            "enablescrolling": true,
+            "genericProperties": {},
+            "id": "CopyFlexConLineThin0jaf3f376160f47",
+            "info": null,
+            "isvisible": true,
+            "kuid": "f742a45bfdae475ebb2aabb367a7c9a1",
+            "layouttype": 2,
+            "name": "kony.ui.FlexContainer",
+            "parent": "CopyFlexConAction0e9bf3dc92e1f40",
+            "pf": "FormHistory",
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetalignment": 1,
+            "zindex": 1
+        },
+        "CopyImageService0ed326dbb41d442": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+            "_src_": "support_24px.png",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "FormHistory",
+                "platform": "android",
+                "templateType": "forms",
+                "topLevelBox": null
+            },
+            "genericProperties": {
+                "centerY": "50%",
+                "left": "0dp"
+            },
+            "id": "CopyImageService0ed326dbb41d442",
+            "imagescalemode": 1,
+            "info": null,
+            "invokedProperty": "src",
+            "isvisible": true,
+            "kuid": "abaac72a99bb4948b2a717deccc2b1b4",
+            "name": "kony.ui.Image2",
+            "parent": "CopyFlexConAction0e9bf3dc92e1f40",
+            "pf": "FormHistory",
+            "srcType": 1,
+            "undoPropsStorage": {},
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "CopyLabelService0ba4cdf74abef49": {
+            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_height_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+            "_text_": "Ganti Modem",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_wrapping_": 2,
+            "android": {
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                }
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "contentalignment": 4,
+            "genericProperties": {
+                "wrapping": 2
+            },
+            "id": "CopyLabelService0ba4cdf74abef49",
+            "info": null,
+            "ipad": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "iphone": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "isvisible": true,
+            "kuid": "b0aca55fc3a242bd87451393655feb54",
+            "name": "kony.ui.Label",
+            "parent": "CopyFlexConAction0e9bf3dc92e1f40",
+            "pf": "FormHistory",
+            "tooltip": "",
+            "undoPropsStorage": {},
+            "wType": "Label",
+            "zindex": 1
+        },
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s71f8f11c6044cc9b00719ebda55474f",
+        "_top_": {
+            "type": "string",
+            "value": "80dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "CopyImageService0ed326dbb41d442",
+            "CopyLabelService0ba4cdf74abef49",
+            "CopyFlexConLineThin0jaf3f376160f47"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConAction0e9bf3dc92e1f40",
+        "info": null,
+        "isvisible": true,
+        "kuid": "fc51e3df3cb740a9b3e92109a7c6e737",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConbox0cb7e963ce25843",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConAlamat0a8476a99d1c140": {
+        "CopyFlexConLineThin0h7ea1a08962244": {
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_bottom_": {
+                "type": "number",
+                "value": "0"
+            },
+            "_height_": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_orientation_": 6,
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_percent_": true,
+            "_right_": {
+                "type": "number",
+                "value": "25"
+            },
+            "_skin_": "saff7777024b455795cce46581328a0c",
+            "allboxes": [],
+            "autogrowmode": 0,
+            "canUpdateUI": true,
+            "children": [],
+            "clipbounds": true,
+            "containerweight": 100,
+            "enablescrolling": true,
+            "genericProperties": {},
+            "id": "CopyFlexConLineThin0h7ea1a08962244",
+            "info": null,
+            "isvisible": true,
+            "kuid": "d5140df023d14388abb3cd561a98c7ba",
+            "layouttype": 2,
+            "name": "kony.ui.FlexContainer",
+            "parent": "CopyFlexConAlamat0a8476a99d1c140",
+            "pf": "FormHistory",
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetalignment": 1,
+            "zindex": 1
+        },
+        "CopyImageAlamat0h5fe4ce9d1a642": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+            "_src_": "marker_24px.png",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "FormHistory",
+                "platform": "android",
+                "templateType": "forms",
+                "topLevelBox": null
+            },
+            "genericProperties": {},
+            "id": "CopyImageAlamat0h5fe4ce9d1a642",
+            "imagescalemode": 1,
+            "info": null,
+            "invokedProperty": "src",
+            "isvisible": true,
+            "kuid": "dfc5e87db7614dfdaedc40dc10f4118b",
+            "name": "kony.ui.Image2",
+            "parent": "CopyFlexConAlamat0a8476a99d1c140",
+            "pf": "FormHistory",
+            "srcType": 1,
+            "undoPropsStorage": {},
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "CopyLabelAlamat0b629254b513843": {
+            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_height_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+            "_text_": "Jalan Merpati Raya 21, ",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_wrapping_": 2,
+            "android": {
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                }
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "30.83%"
+            },
+            "containerweight": 100,
+            "contentalignment": 4,
+            "genericProperties": {
+                "wrapping": 2
+            },
+            "id": "CopyLabelAlamat0b629254b513843",
+            "info": null,
+            "ipad": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "iphone": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "isvisible": true,
+            "kuid": "b5ed9f472ef84cf4b6262bde286c9cae",
+            "name": "kony.ui.Label",
+            "parent": "CopyFlexConAlamat0a8476a99d1c140",
+            "pf": "FormHistory",
+            "tooltip": "",
+            "undoPropsStorage": {},
+            "wType": "Label",
+            "zindex": 1
+        },
+        "CopyLabelAlamat0h1e296c8228242": {
+            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_height_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+            "_text_": "Gambir, Jakarta Pusat",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_wrapping_": 2,
+            "android": {
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                }
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "68.33%"
+            },
+            "containerweight": 100,
+            "contentalignment": 4,
+            "genericProperties": {
+                "wrapping": 2
+            },
+            "id": "CopyLabelAlamat0h1e296c8228242",
+            "info": null,
+            "ipad": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "iphone": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "isvisible": true,
+            "kuid": "e532ca81fa7242b387bb46aab07778e8",
+            "name": "kony.ui.Label",
+            "parent": "CopyFlexConAlamat0a8476a99d1c140",
+            "pf": "FormHistory",
+            "tooltip": "",
+            "undoPropsStorage": {},
+            "wType": "Label",
+            "zindex": 1
+        },
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s71f8f11c6044cc9b00719ebda55474f",
+        "_top_": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "CopyImageAlamat0h5fe4ce9d1a642",
+            "CopyLabelAlamat0b629254b513843",
+            "CopyLabelAlamat0h1e296c8228242",
+            "CopyFlexConLineThin0h7ea1a08962244"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConAlamat0a8476a99d1c140",
+        "info": null,
+        "isvisible": true,
+        "kuid": "b0100a7014c7476481fff98c1a2ed706",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConbox0cb7e963ce25843",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConLineThin0g07e5e5acd4248": {
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_bottom_": {
+            "type": "number",
+            "value": "0"
+        },
+        "_height_": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_right_": {
+            "type": "number",
+            "value": "25"
+        },
+        "_skin_": "saff7777024b455795cce46581328a0c",
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConLineThin0g07e5e5acd4248",
+        "info": null,
+        "isvisible": true,
+        "kuid": "f15d608b73c244d1a887bccd2acf2b17",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConTelp0d579b19d63a54b",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConLineThin0g6cd2e71b5ce4a": {
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_bottom_": {
+            "type": "number",
+            "value": "0"
+        },
+        "_height_": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_right_": {
+            "type": "number",
+            "value": "25"
+        },
+        "_skin_": "saff7777024b455795cce46581328a0c",
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConLineThin0g6cd2e71b5ce4a",
+        "info": null,
+        "isvisible": true,
+        "kuid": "d04e9a966c394e6288ae8f2b787c4dfc",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConTanggal0b85a816cec6146",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConLineThin0h7ea1a08962244": {
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_bottom_": {
+            "type": "number",
+            "value": "0"
+        },
+        "_height_": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_right_": {
+            "type": "number",
+            "value": "25"
+        },
+        "_skin_": "saff7777024b455795cce46581328a0c",
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConLineThin0h7ea1a08962244",
+        "info": null,
+        "isvisible": true,
+        "kuid": "d5140df023d14388abb3cd561a98c7ba",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConAlamat0a8476a99d1c140",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConLineThin0jaf3f376160f47": {
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_bottom_": {
+            "type": "number",
+            "value": "0"
+        },
+        "_height_": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_right_": {
+            "type": "number",
+            "value": "25"
+        },
+        "_skin_": "saff7777024b455795cce46581328a0c",
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConLineThin0jaf3f376160f47",
+        "info": null,
+        "isvisible": true,
+        "kuid": "f742a45bfdae475ebb2aabb367a7c9a1",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConAction0e9bf3dc92e1f40",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConTanggal0b85a816cec6146": {
+        "CopyFlexConLineThin0g6cd2e71b5ce4a": {
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_bottom_": {
+                "type": "number",
+                "value": "0"
+            },
+            "_height_": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_orientation_": 6,
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_percent_": true,
+            "_right_": {
+                "type": "number",
+                "value": "25"
+            },
+            "_skin_": "saff7777024b455795cce46581328a0c",
+            "allboxes": [],
+            "autogrowmode": 0,
+            "canUpdateUI": true,
+            "children": [],
+            "clipbounds": true,
+            "containerweight": 100,
+            "enablescrolling": true,
+            "genericProperties": {},
+            "id": "CopyFlexConLineThin0g6cd2e71b5ce4a",
+            "info": null,
+            "isvisible": true,
+            "kuid": "d04e9a966c394e6288ae8f2b787c4dfc",
+            "layouttype": 2,
+            "name": "kony.ui.FlexContainer",
+            "parent": "CopyFlexConTanggal0b85a816cec6146",
+            "pf": "FormHistory",
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetalignment": 1,
+            "zindex": 1
+        },
+        "CopyImageCalendar0i33aab48cfef42": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+            "_src_": "calendar_24px.png",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "FormHistory",
+                "platform": "android",
+                "templateType": "forms",
+                "topLevelBox": null
+            },
+            "genericProperties": {},
+            "id": "CopyImageCalendar0i33aab48cfef42",
+            "imagescalemode": 1,
+            "info": null,
+            "invokedProperty": "src",
+            "isvisible": true,
+            "kuid": "d335ac57fede4f7680a3c77a7e688f68",
+            "name": "kony.ui.Image2",
+            "parent": "CopyFlexConTanggal0b85a816cec6146",
+            "pf": "FormHistory",
+            "srcType": 1,
+            "undoPropsStorage": {},
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "CopyLabelTgl0hce8b35608364d": {
+            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_height_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+            "_text_": "31 Juli 2017, 09:01 AM",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_wrapping_": 2,
+            "android": {
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                }
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "contentalignment": 4,
+            "genericProperties": {
+                "wrapping": 2
+            },
+            "id": "CopyLabelTgl0hce8b35608364d",
+            "info": null,
+            "ipad": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "iphone": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "isvisible": true,
+            "kuid": "a29661ae0f1e40d7aa59dac1e669cf02",
+            "name": "kony.ui.Label",
+            "parent": "CopyFlexConTanggal0b85a816cec6146",
+            "pf": "FormHistory",
+            "tooltip": "",
+            "undoPropsStorage": {},
+            "wType": "Label",
+            "zindex": 1
+        },
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s71f8f11c6044cc9b00719ebda55474f",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "CopyImageCalendar0i33aab48cfef42",
+            "CopyLabelTgl0hce8b35608364d",
+            "CopyFlexConLineThin0g6cd2e71b5ce4a"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConTanggal0b85a816cec6146",
+        "info": null,
+        "isvisible": true,
+        "kuid": "e47adf41fc7a462288c46f29cf931fa9",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConbox0cb7e963ce25843",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConTelp0d579b19d63a54b": {
+        "CopyFlexConLineThin0g07e5e5acd4248": {
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_bottom_": {
+                "type": "number",
+                "value": "0"
+            },
+            "_height_": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_orientation_": 6,
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_percent_": true,
+            "_right_": {
+                "type": "number",
+                "value": "25"
+            },
+            "_skin_": "saff7777024b455795cce46581328a0c",
+            "allboxes": [],
+            "autogrowmode": 0,
+            "canUpdateUI": true,
+            "children": [],
+            "clipbounds": true,
+            "containerweight": 100,
+            "enablescrolling": true,
+            "genericProperties": {},
+            "id": "CopyFlexConLineThin0g07e5e5acd4248",
+            "info": null,
+            "isvisible": true,
+            "kuid": "f15d608b73c244d1a887bccd2acf2b17",
+            "layouttype": 2,
+            "name": "kony.ui.FlexContainer",
+            "parent": "CopyFlexConTelp0d579b19d63a54b",
+            "pf": "FormHistory",
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetalignment": 1,
+            "zindex": 1
+        },
+        "CopyImageTelp0i557c267109149": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+            "_src_": "phone_24px.png",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "FormHistory",
+                "platform": "android",
+                "templateType": "forms",
+                "topLevelBox": null
+            },
+            "genericProperties": {},
+            "id": "CopyImageTelp0i557c267109149",
+            "imagescalemode": 1,
+            "info": null,
+            "invokedProperty": "src",
+            "isvisible": true,
+            "kuid": "b2f908959c4c455f99e6792cbe39e6df",
+            "name": "kony.ui.Image2",
+            "parent": "CopyFlexConTelp0d579b19d63a54b",
+            "pf": "FormHistory",
+            "srcType": 1,
+            "undoPropsStorage": {},
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "CopyLabelTelp0c02358f2edc348": {
+            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_height_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "_margin_": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+            "_text_": "021-77229120",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "ref",
+                "value": "preferred"
+            },
+            "_wrapping_": 2,
+            "android": {
+                "textStyle": {
+                    "letterSpacing": 0,
+                    "strikeThrough": false
+                }
+            },
+            "canUpdateUI": true,
+            "centery": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "contentalignment": 4,
+            "genericProperties": {
+                "wrapping": 2
+            },
+            "id": "CopyLabelTelp0c02358f2edc348",
+            "info": null,
+            "ipad": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "iphone": {
+                "psp": {
+                    "wrapping": 2
+                }
+            },
+            "isvisible": true,
+            "kuid": "b613c77cfebf429ea2782c6df88eafc0",
+            "name": "kony.ui.Label",
+            "parent": "CopyFlexConTelp0d579b19d63a54b",
+            "pf": "FormHistory",
+            "tooltip": "",
+            "undoPropsStorage": {},
+            "wType": "Label",
+            "zindex": 1
+        },
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s71f8f11c6044cc9b00719ebda55474f",
+        "_top_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "CopyImageTelp0i557c267109149",
+            "CopyLabelTelp0c02358f2edc348",
+            "CopyFlexConLineThin0g07e5e5acd4248"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConTelp0d579b19d63a54b",
+        "info": null,
+        "isvisible": true,
+        "kuid": "d5aa8ea8bfa743e09218d9e1b510581f",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConbox0cb7e963ce25843",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyFlexConbox0dca84ff033b44d": {
+        "CopyImageIconStar0da257226dc9a4a": {
+            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_base64_": null,
+            "_height_": {
+                "type": "string",
+                "value": "60dp"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "23dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+            "_src_": "imagedrag.png",
+            "_top_": {
+                "type": "string",
+                "value": "3dp"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "80dp"
+            },
+            "canUpdateUI": true,
+            "centerx": {
+                "type": "string",
+                "value": "50%"
+            },
+            "containerweight": 100,
+            "context": {
+                "channel": "mobile",
+                "formID": "FormHistory",
+                "platform": "android",
+                "templateType": "forms",
+                "topLevelBox": null
+            },
+            "genericProperties": {},
+            "id": "CopyImageIconStar0da257226dc9a4a",
+            "imagescalemode": 1,
+            "info": null,
+            "invokedProperty": "src",
+            "isvisible": true,
+            "kuid": "b531cc7d4fcc484a91c2646a883ce748",
+            "name": "kony.ui.Image2",
+            "parent": "CopyFlexConbox0dca84ff033b44d",
+            "pf": "FormHistory",
+            "srcType": 1,
+            "undoPropsStorage": {},
+            "wType": "Image",
+            "widgetalignment": 5,
+            "zindex": 1
+        },
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_bottom_": {
+            "type": "string",
+            "value": "10dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "10dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s71f8f11c6044cc9b00719ebda55474f",
+        "_top_": {
+            "type": "string",
+            "value": "10dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "35%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "CopyImageIconStar0da257226dc9a4a"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "genericProperties": {},
+        "id": "CopyFlexConbox0dca84ff033b44d",
+        "info": null,
+        "isvisible": true,
+        "kuid": "b8b09dc834bf49f89ff9d9af3e1e5b02",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "CopyFlexConBoxInProgress0f50da848a12549",
+        "pf": "FormHistory",
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "undoPropsStorage": {},
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "CopyImageAlamat0h5fe4ce9d1a642": {
+        "@class": "com.kony.gen.viz.model.component.KVizImage2",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_base64_": null,
+        "_height_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+        "_src_": "marker_24px.png",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "context": {
+            "channel": "mobile",
+            "formID": "FormHistory",
+            "platform": "android",
+            "templateType": "forms",
+            "topLevelBox": null
+        },
+        "genericProperties": {},
+        "id": "CopyImageAlamat0h5fe4ce9d1a642",
+        "imagescalemode": 1,
+        "info": null,
+        "invokedProperty": "src",
+        "isvisible": true,
+        "kuid": "dfc5e87db7614dfdaedc40dc10f4118b",
+        "name": "kony.ui.Image2",
+        "parent": "CopyFlexConAlamat0a8476a99d1c140",
+        "pf": "FormHistory",
+        "srcType": 1,
+        "undoPropsStorage": {},
+        "wType": "Image",
+        "widgetalignment": 5,
+        "zindex": 1
+    },
+    "CopyImageCalendar0i33aab48cfef42": {
+        "@class": "com.kony.gen.viz.model.component.KVizImage2",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_base64_": null,
+        "_height_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+        "_src_": "calendar_24px.png",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "context": {
+            "channel": "mobile",
+            "formID": "FormHistory",
+            "platform": "android",
+            "templateType": "forms",
+            "topLevelBox": null
+        },
+        "genericProperties": {},
+        "id": "CopyImageCalendar0i33aab48cfef42",
+        "imagescalemode": 1,
+        "info": null,
+        "invokedProperty": "src",
+        "isvisible": true,
+        "kuid": "d335ac57fede4f7680a3c77a7e688f68",
+        "name": "kony.ui.Image2",
+        "parent": "CopyFlexConTanggal0b85a816cec6146",
+        "pf": "FormHistory",
+        "srcType": 1,
+        "undoPropsStorage": {},
+        "wType": "Image",
+        "widgetalignment": 5,
+        "zindex": 1
+    },
+    "CopyImageIconStar0da257226dc9a4a": {
+        "@class": "com.kony.gen.viz.model.component.KVizImage2",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_base64_": null,
+        "_height_": {
+            "type": "string",
+            "value": "60dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "23dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+        "_src_": "imagedrag.png",
+        "_top_": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "80dp"
+        },
+        "canUpdateUI": true,
+        "centerx": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "context": {
+            "channel": "mobile",
+            "formID": "FormHistory",
+            "platform": "android",
+            "templateType": "forms",
+            "topLevelBox": null
+        },
+        "genericProperties": {},
+        "id": "CopyImageIconStar0da257226dc9a4a",
+        "imagescalemode": 1,
+        "info": null,
+        "invokedProperty": "src",
+        "isvisible": true,
+        "kuid": "b531cc7d4fcc484a91c2646a883ce748",
+        "name": "kony.ui.Image2",
+        "parent": "CopyFlexConbox0dca84ff033b44d",
+        "pf": "FormHistory",
+        "srcType": 1,
+        "undoPropsStorage": {},
+        "wType": "Image",
+        "widgetalignment": 5,
+        "zindex": 1
+    },
+    "CopyImageService0ed326dbb41d442": {
+        "@class": "com.kony.gen.viz.model.component.KVizImage2",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_base64_": null,
+        "_height_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+        "_src_": "support_24px.png",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "context": {
+            "channel": "mobile",
+            "formID": "FormHistory",
+            "platform": "android",
+            "templateType": "forms",
+            "topLevelBox": null
+        },
+        "genericProperties": {
+            "centerY": "50%",
+            "left": "0dp"
+        },
+        "id": "CopyImageService0ed326dbb41d442",
+        "imagescalemode": 1,
+        "info": null,
+        "invokedProperty": "src",
+        "isvisible": true,
+        "kuid": "abaac72a99bb4948b2a717deccc2b1b4",
+        "name": "kony.ui.Image2",
+        "parent": "CopyFlexConAction0e9bf3dc92e1f40",
+        "pf": "FormHistory",
+        "srcType": 1,
+        "undoPropsStorage": {},
+        "wType": "Image",
+        "widgetalignment": 5,
+        "zindex": 1
+    },
+    "CopyImageTelp0i557c267109149": {
+        "@class": "com.kony.gen.viz.model.component.KVizImage2",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_base64_": null,
+        "_height_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s35af215405e45f58db95ba5c7e5a528",
+        "_src_": "phone_24px.png",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "context": {
+            "channel": "mobile",
+            "formID": "FormHistory",
+            "platform": "android",
+            "templateType": "forms",
+            "topLevelBox": null
+        },
+        "genericProperties": {},
+        "id": "CopyImageTelp0i557c267109149",
+        "imagescalemode": 1,
+        "info": null,
+        "invokedProperty": "src",
+        "isvisible": true,
+        "kuid": "b2f908959c4c455f99e6792cbe39e6df",
+        "name": "kony.ui.Image2",
+        "parent": "CopyFlexConTelp0d579b19d63a54b",
+        "pf": "FormHistory",
+        "srcType": 1,
+        "undoPropsStorage": {},
+        "wType": "Image",
+        "widgetalignment": 5,
+        "zindex": 1
+    },
+    "CopyLabelAlamat0b629254b513843": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+        "_text_": "Jalan Merpati Raya 21, ",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "30.83%"
+        },
+        "containerweight": 100,
+        "contentalignment": 4,
+        "genericProperties": {
+            "wrapping": 2
+        },
+        "id": "CopyLabelAlamat0b629254b513843",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "b5ed9f472ef84cf4b6262bde286c9cae",
+        "name": "kony.ui.Label",
+        "parent": "CopyFlexConAlamat0a8476a99d1c140",
+        "pf": "FormHistory",
+        "tooltip": "",
+        "undoPropsStorage": {},
+        "wType": "Label",
+        "zindex": 1
+    },
+    "CopyLabelAlamat0h1e296c8228242": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+        "_text_": "Gambir, Jakarta Pusat",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "68.33%"
+        },
+        "containerweight": 100,
+        "contentalignment": 4,
+        "genericProperties": {
+            "wrapping": 2
+        },
+        "id": "CopyLabelAlamat0h1e296c8228242",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "e532ca81fa7242b387bb46aab07778e8",
+        "name": "kony.ui.Label",
+        "parent": "CopyFlexConAlamat0a8476a99d1c140",
+        "pf": "FormHistory",
+        "tooltip": "",
+        "undoPropsStorage": {},
+        "wType": "Label",
+        "zindex": 1
+    },
+    "CopyLabelService0ba4cdf74abef49": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+        "_text_": "Ganti Modem",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "contentalignment": 4,
+        "genericProperties": {
+            "wrapping": 2
+        },
+        "id": "CopyLabelService0ba4cdf74abef49",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "b0aca55fc3a242bd87451393655feb54",
+        "name": "kony.ui.Label",
+        "parent": "CopyFlexConAction0e9bf3dc92e1f40",
+        "pf": "FormHistory",
+        "tooltip": "",
+        "undoPropsStorage": {},
+        "wType": "Label",
+        "zindex": 1
+    },
+    "CopyLabelTelp0c02358f2edc348": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+        "_text_": "021-77229120",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "contentalignment": 4,
+        "genericProperties": {
+            "wrapping": 2
+        },
+        "id": "CopyLabelTelp0c02358f2edc348",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "b613c77cfebf429ea2782c6df88eafc0",
+        "name": "kony.ui.Label",
+        "parent": "CopyFlexConTelp0d579b19d63a54b",
+        "pf": "FormHistory",
+        "tooltip": "",
+        "undoPropsStorage": {},
+        "wType": "Label",
+        "zindex": 1
+    },
+    "CopyLabelTgl0hce8b35608364d": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s93bdb70627d4d368f99cbc3d85dd8bb",
+        "_text_": "31 Juli 2017, 09:01 AM",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "contentalignment": 4,
+        "genericProperties": {
+            "wrapping": 2
+        },
+        "id": "CopyLabelTgl0hce8b35608364d",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "isvisible": true,
+        "kuid": "a29661ae0f1e40d7aa59dac1e669cf02",
+        "name": "kony.ui.Label",
+        "parent": "CopyFlexConTanggal0b85a816cec6146",
+        "pf": "FormHistory",
+        "tooltip": "",
+        "undoPropsStorage": {},
+        "wType": "Label",
+        "zindex": 1
+    },
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf85b9b096804fabb6aff115cc3d0fdb",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "FlexConBgHistory"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "FormHistoryController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyS5",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "FormHistory",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonText": "Edit",
+                "ide_titleClosureLeftSideView": "",
+                "ide_titleClosureRightSideView": "",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": true
+            }
+        },
+        "titleBar": true
+    },
+    "isvisible": true,
+    "kuid": "c1883bd4926645c8a3764c7c83138d01",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "android",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS5",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s7bc67cb129e4737bfb8db0fbdcd09d8",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

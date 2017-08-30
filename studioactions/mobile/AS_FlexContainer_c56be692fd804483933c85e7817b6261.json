@@ -1,0 +1,60 @@
+{
+    "AS_FlexContainer_c56be692fd804483933c85e7817b6261": {
+        "id": "AS_FlexContainer_c56be692fd804483933c85e7817b6261",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FormLeaderboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c811b9e42bd24541842d08e1df74f8a6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____eb48887f2037499195aad10afddda8df",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "FormHome",
+            "widgetId": "FlexConAllQuestMaster",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "j994d84e8574405fbf94cf4d4fedb4f8",
+            "widgetKUID": "f81f729dae304a1faa5bfc88c0c23a96",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.FlexConAllQuestMaster"
+        }, {
+            "id": "___onClick_b8c21c4f56e4416893375b2f00b6c71a",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "FormHome",
+            "widgetId": "FlexConBgHome",
+            "itemKUID": "j994d84e8574405fbf94cf4d4fedb4f8",
+            "widgetKUID": "cf2fa580e73c4843a0c6e717e19b71a2",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____b3efd78205b8455fb53dde8d2424015b",
+            "displayAnimationId": "MOVE_ACTION____b3efd78205b8455fb53dde8d2424015b",
+            "forkedPlatform": "all",
+            "callbackType": null,
+            "widgetPath": "this.view.FlexConBgHome"
+        }]
+    }
+}
